@@ -1,0 +1,24 @@
+[3.841s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_teleop': PYTHONPATH=/home/pi/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/pi/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/pi/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data
+[5.091s] running develop
+[5.859s] running egg_info
+[5.859s] creating turtlebot3_teleop.egg-info
+[5.860s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[5.861s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[5.862s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[5.862s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[5.863s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[5.863s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.872s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.875s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.882s] running build_ext
+[5.883s] Creating /home/pi/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[5.886s] Installing teleop_keyboard script to /home/pi/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[5.888s] 
+[5.888s] Installed /home/pi/turtlebot3_ws/build/turtlebot3_teleop
+[5.889s] running install_data
+[5.889s] creating /home/pi/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index
+[5.889s] creating /home/pi/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index
+[5.890s] creating /home/pi/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[5.890s] copying resource/turtlebot3_teleop -> /home/pi/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[5.891s] copying package.xml -> /home/pi/turtlebot3_ws/install/turtlebot3_teleop/share/turtlebot3_teleop
+[6.049s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/pi/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/pi/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/pi/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data

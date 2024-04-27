@@ -1,0 +1,49 @@
+[0.448s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake /home/pi/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pi/turtlebot3_ws/install/turtlebot3_bringup
+[1.200s] -- The C compiler identification is GNU 11.4.0
+[1.478s] -- The CXX compiler identification is GNU 11.4.0
+[1.524s] -- Detecting C compiler ABI info
+[1.892s] -- Detecting C compiler ABI info - done
+[1.920s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.922s] -- Detecting C compile features
+[1.924s] -- Detecting C compile features - done
+[1.940s] -- Detecting CXX compiler ABI info
+[2.314s] -- Detecting CXX compiler ABI info - done
+[2.342s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.343s] -- Detecting CXX compile features
+[2.345s] -- Detecting CXX compile features - done
+[2.384s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.338s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.701s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.401s] -- Configuring done
+[4.420s] -- Generating done
+[4.424s] -- Build files have been written to: /home/pi/turtlebot3_ws/build/turtlebot3_bringup
+[4.440s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake /home/pi/turtlebot3_ws/src/turtlebot3/turtlebot3_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pi/turtlebot3_ws/install/turtlebot3_bringup
+[4.449s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --build /home/pi/turtlebot3_ws/build/turtlebot3_bringup -- -j4 -l4
+[4.605s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --build /home/pi/turtlebot3_ws/build/turtlebot3_bringup -- -j4 -l4
+[4.726s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --install /home/pi/turtlebot3_ws/build/turtlebot3_bringup
+[4.753s] -- Install configuration: ""
+[4.755s] -- Execute custom install script
+[4.760s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/robot.launch.py
+[4.795s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/rviz2.launch.py
+[4.827s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_state_publisher.launch.py
+[4.863s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/burger.yaml
+[4.898s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle.yaml
+[4.930s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/param/waffle_pi.yaml
+[4.965s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/99-turtlebot3-cdc.rules
+[5.001s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/script/create_udev_rules
+[5.034s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/package_run_dependencies/turtlebot3_bringup
+[5.069s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/parent_prefix_path/turtlebot3_bringup
+[5.103s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.sh
+[5.136s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/ament_prefix_path.dsv
+[5.169s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.sh
+[5.203s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/environment/path.dsv
+[5.236s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.bash
+[5.270s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.sh
+[5.304s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.zsh
+[5.337s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/local_setup.dsv
+[5.370s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.dsv
+[5.404s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/ament_index/resource_index/packages/turtlebot3_bringup
+[5.438s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[5.472s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[5.505s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[5.544s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_bringup' returned '0': AMENT_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/pi/turtlebot3_ws/install/turtlebot3_node:/home/pi/turtlebot3_ws/install/turtlebot3_description:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --install /home/pi/turtlebot3_ws/build/turtlebot3_bringup

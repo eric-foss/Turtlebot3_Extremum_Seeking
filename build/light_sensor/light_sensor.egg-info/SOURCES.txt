@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/light_sensor/light_sensor.egg-info/PKG-INFO
+../../build/light_sensor/light_sensor.egg-info/SOURCES.txt
+../../build/light_sensor/light_sensor.egg-info/dependency_links.txt
+../../build/light_sensor/light_sensor.egg-info/entry_points.txt
+../../build/light_sensor/light_sensor.egg-info/requires.txt
+../../build/light_sensor/light_sensor.egg-info/top_level.txt
+../../build/light_sensor/light_sensor.egg-info/zip-safe
+light_sensor/__init__.py
+light_sensor/light_sensor.py
+resource/light_sensor
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

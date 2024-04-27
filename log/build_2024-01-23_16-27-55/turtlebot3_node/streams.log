@@ -1,0 +1,36 @@
+[0.489s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --build /home/pi/turtlebot3_ws/build/turtlebot3_node -- -j4 -l4
+[0.819s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_node_lib[0m
+[1.091s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[1.094s] [ 14%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[1.108s] [ 21%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/sensor_state.cpp.o[0m
+[1.113s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/joint_state.cpp.o[0m
+[84.158s] [ 35%] [32m[1mLinking CXX static library libturtlebot3_node_lib.a[0m
+[94.687s] [ 85%] Built target turtlebot3_node_lib
+[94.945s] [ 92%] [32mBuilding CXX object CMakeFiles/turtlebot3_ros.dir/src/node_main.cpp.o[0m
+[110.020s] [100%] [32m[1mLinking CXX executable turtlebot3_ros[0m
+[118.666s] [100%] Built target turtlebot3_ros
+[118.826s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --build /home/pi/turtlebot3_ws/build/turtlebot3_node -- -j4 -l4
+[119.138s] Invoking command in '/home/pi/turtlebot3_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --install /home/pi/turtlebot3_ws/build/turtlebot3_node
+[119.165s] -- Install configuration: ""
+[119.168s] -- Execute custom install script
+[119.173s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+[119.207s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+[119.242s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+[119.277s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+[119.311s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+[119.349s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+[119.383s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+[119.416s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+[119.454s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+[119.487s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+[119.520s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+[119.556s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+[119.589s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+[119.621s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+[119.658s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+[119.691s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+[119.725s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[119.759s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+[119.792s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+[119.826s] -- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.xml
+[119.866s] Invoked command in '/home/pi/turtlebot3_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/pi/install/my_robot_controller:/home/pi/install/MyControlBot:/opt/ros/humble /usr/bin/cmake --install /home/pi/turtlebot3_ws/build/turtlebot3_node

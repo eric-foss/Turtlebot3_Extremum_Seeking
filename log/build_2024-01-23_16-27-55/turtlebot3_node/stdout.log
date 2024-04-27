@@ -1,0 +1,32 @@
+[35m[1mConsolidate compiler generated dependencies of target turtlebot3_node_lib[0m
+[  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/odometry.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/turtlebot3.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/sensor_state.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/turtlebot3_node_lib.dir/src/sensors/joint_state.cpp.o[0m
+[ 35%] [32m[1mLinking CXX static library libturtlebot3_node_lib.a[0m
+[ 85%] Built target turtlebot3_node_lib
+[ 92%] [32mBuilding CXX object CMakeFiles/turtlebot3_ros.dir/src/node_main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable turtlebot3_ros[0m
+[100%] Built target turtlebot3_ros
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+-- Symlinking: /home/pi/turtlebot3_ws/install/turtlebot3_node/share/turtlebot3_node/package.xml

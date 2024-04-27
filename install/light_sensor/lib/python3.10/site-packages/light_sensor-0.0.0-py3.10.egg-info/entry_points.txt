@@ -1,0 +1,3 @@
+[console_scripts]
+light_sensor = light_sensor.light_sensor:main
+

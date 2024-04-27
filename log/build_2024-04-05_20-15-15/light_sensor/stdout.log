@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/light_sensor/light_sensor.egg-info
+writing ../../build/light_sensor/light_sensor.egg-info/PKG-INFO
+writing dependency_links to ../../build/light_sensor/light_sensor.egg-info/dependency_links.txt
+writing entry points to ../../build/light_sensor/light_sensor.egg-info/entry_points.txt
+writing requirements to ../../build/light_sensor/light_sensor.egg-info/requires.txt
+writing top-level names to ../../build/light_sensor/light_sensor.egg-info/top_level.txt
+writing manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+reading manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+writing manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/pi/turtlebot3_ws/build/light_sensor/build
+creating /home/pi/turtlebot3_ws/build/light_sensor/build/lib
+creating /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+copying light_sensor/__init__.py -> /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+copying light_sensor/light_sensor.py -> /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+running install
+running install_lib
+creating /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+copying /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor/__init__.py -> /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+copying /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor/light_sensor.py -> /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+byte-compiling /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor/light_sensor.py to light_sensor.cpython-310.pyc
+running install_data
+creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index
+creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index
+creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index/packages
+copying resource/light_sensor -> /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index/packages
+copying package.xml -> /home/pi/turtlebot3_ws/install/light_sensor/share/light_sensor
+running install_egg_info
+Copying ../../build/light_sensor/light_sensor.egg-info to /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing light_sensor script to /home/pi/turtlebot3_ws/install/light_sensor/lib/light_sensor
+writing list of installed files to '/home/pi/turtlebot3_ws/build/light_sensor/install.log'

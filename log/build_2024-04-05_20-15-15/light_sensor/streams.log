@@ -1,0 +1,37 @@
+[3.830s] Invoking command in '/home/pi/turtlebot3_ws/src/light_sensor': PYTHONPATH=/home/pi/turtlebot3_ws/build/light_sensor/prefix_override:/home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/light_sensor build --build-base /home/pi/turtlebot3_ws/build/light_sensor/build install --record /home/pi/turtlebot3_ws/build/light_sensor/install.log --single-version-externally-managed
+[5.013s] running egg_info
+[5.015s] creating ../../build/light_sensor/light_sensor.egg-info
+[5.016s] writing ../../build/light_sensor/light_sensor.egg-info/PKG-INFO
+[5.017s] writing dependency_links to ../../build/light_sensor/light_sensor.egg-info/dependency_links.txt
+[5.017s] writing entry points to ../../build/light_sensor/light_sensor.egg-info/entry_points.txt
+[5.018s] writing requirements to ../../build/light_sensor/light_sensor.egg-info/requires.txt
+[5.018s] writing top-level names to ../../build/light_sensor/light_sensor.egg-info/top_level.txt
+[5.019s] writing manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+[5.027s] reading manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+[5.030s] writing manifest file '../../build/light_sensor/light_sensor.egg-info/SOURCES.txt'
+[5.031s] running build
+[5.031s] running build_py
+[5.031s] creating /home/pi/turtlebot3_ws/build/light_sensor/build
+[5.032s] creating /home/pi/turtlebot3_ws/build/light_sensor/build/lib
+[5.032s] creating /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+[5.033s] copying light_sensor/__init__.py -> /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+[5.033s] copying light_sensor/light_sensor.py -> /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor
+[5.034s] running install
+[5.035s] running install_lib
+[5.039s] creating /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+[5.040s] copying /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor/__init__.py -> /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+[5.043s] copying /home/pi/turtlebot3_ws/build/light_sensor/build/lib/light_sensor/light_sensor.py -> /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor
+[5.043s] byte-compiling /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor/__init__.py to __init__.cpython-310.pyc
+[5.044s] byte-compiling /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor/light_sensor.py to light_sensor.cpython-310.pyc
+[5.046s] running install_data
+[5.048s] creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index
+[5.048s] creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index
+[5.049s] creating /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index/packages
+[5.049s] copying resource/light_sensor -> /home/pi/turtlebot3_ws/install/light_sensor/share/ament_index/resource_index/packages
+[5.050s] copying package.xml -> /home/pi/turtlebot3_ws/install/light_sensor/share/light_sensor
+[5.050s] running install_egg_info
+[5.057s] Copying ../../build/light_sensor/light_sensor.egg-info to /home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages/light_sensor-0.0.0-py3.10.egg-info
+[5.062s] running install_scripts
+[5.141s] Installing light_sensor script to /home/pi/turtlebot3_ws/install/light_sensor/lib/light_sensor
+[5.143s] writing list of installed files to '/home/pi/turtlebot3_ws/build/light_sensor/install.log'
+[5.268s] Invoked command in '/home/pi/turtlebot3_ws/src/light_sensor' returned '0': PYTHONPATH=/home/pi/turtlebot3_ws/build/light_sensor/prefix_override:/home/pi/turtlebot3_ws/install/light_sensor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/light_sensor build --build-base /home/pi/turtlebot3_ws/build/light_sensor/build install --record /home/pi/turtlebot3_ws/build/light_sensor/install.log --single-version-externally-managed
